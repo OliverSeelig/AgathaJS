@@ -1,0 +1,22 @@
+{
+  "name": "agathajs",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Oliver Seelig",
+    "url": "https://dev.oliverseelig.com"
+  },
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverSeelig/AgathaJS.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/OliverSeelig/AgathaJS/issues"
+  },
+  "homepage": "https://github.com/OliverSeelig/AgathaJS#readme"
+}
