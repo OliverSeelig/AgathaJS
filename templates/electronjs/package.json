@@ -1,0 +1,13 @@
+{
+  "name": "{}",
+  "version": "{}",
+  "main": "electron/main.js",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.8.0"
+  }
+}
